@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body,html{
+    width: 100%;
+    margin: 0;
+    background-color: black;
+    height: 100vh;
+}
+canvas {
+    height: 88vh;
+    width: 100%;
+    background: black;
+}
+
+h1{
+    margin-top: 10px;
+    color: azure;
+    text-align: center;
+}
+
+h2{
+    margin-top: 20px;
+    color: azure;
+    text-align: center;
+}
